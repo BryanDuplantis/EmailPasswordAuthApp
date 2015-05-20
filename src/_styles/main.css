@@ -1,0 +1,40 @@
+body {
+  background-color: skyblue;
+}
+
+.hidden {
+  display: none;
+}
+
+/*.topcontainer {
+  background-color: lightgrey;
+  height: 300px;
+  width: 700px;
+  position: absolute;
+  border: 1px solid green;
+}*/
+
+/*.content {
+  background-color: lightgrey;
+  height: 300px;
+  width: 700px;
+  position: absolute;
+  border: 1px solid green;
+
+}*/
+
+input[type="email"] {
+  border: 1px solid yellow;
+  height: 25px;
+  width: 300px;
+}
+
+input[type="password"] {
+  border: 1px solid yellow;
+  height: 25px;
+  width: 300px;
+}
+
+input[type="submit"]{
+  font-size: 100px;
+}

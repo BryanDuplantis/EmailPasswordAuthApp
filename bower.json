@@ -1,0 +1,19 @@
+{
+  "name": "EmailPasswordAuthApp",
+  "version": "1.0.0",
+  "homepage": "https://github.com/BryanDuplantis/EmailPasswordAuthApp",
+  "authors": [
+    "Bryan Duplantis <duplantis@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "firebase": "~2.2.5"
+  }
+}
